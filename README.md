@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bniladridas/palmshed/main/.github/assets/thumbnail.png" alt="palmshed" width="100%">
+</p>
+
 # Palmshed
 
 <br>
